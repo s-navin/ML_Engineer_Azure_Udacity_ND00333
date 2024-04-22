@@ -7,4 +7,4 @@ The following projects are covered:
 
 # Summary of projects
 ## Project 01: Optimizing an ML Pipeline in Azure
-[Link to Project 01](^1^)
+[Link to Project 01](https://github.com/s-navin/ML_Engineer_Azure_Udacity_ND00333/tree/main/01_optimise_AzureML_pipeline)
