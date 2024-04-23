@@ -19,10 +19,10 @@ Therefore the input variables would be the fields representing _____ and the tar
 _Picture Courtesy: Udacity_
 
 ### Project Rubric
-[Success Criteria and specifications for Documentation, etc. can be found here](https://github.com/s-navin/ML_Engineer_Azure_Udacity_ND00333/blob/main/01_optimise_AzureML_pipeline/rubric_project_01.md) 
+[Success Criteria and specifications for Documentation, etc., can be found here](https://github.com/s-navin/ML_Engineer_Azure_Udacity_ND00333/blob/main/01_optimise_AzureML_pipeline/rubric_project_01.md) 
 
 ### Solution:
-The ____ is ____ produced by the Azure AutomML run. It has a prediction accuracy of _____ when compared to the accuracy of ___ achieved by the scikit-learn LogicRegression model, with hyperparameter tuning assistance from HyperDrive.
+The ____ is ____ produced by the Azure AutomML run. It has a prediction accuracy of _____ when compared to the accuracy of ___ achieved by the scikit-learn LogisticRegression model, with hyperparameter tuning assistance from HyperDrive.
 
 ### Best performing model
 e.g. "The best performing model was a ..."**
