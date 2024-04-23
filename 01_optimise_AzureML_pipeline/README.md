@@ -10,7 +10,7 @@ Then, **Azure AutoML** is used to build and optimise a model on the same dataset
 ### Problem Statement: 
 
 ### Dataset
-e.g "This dataset contains data about... we seek to predict..."
+e.g "This dataset contains data about... we seek to predict..."   
 The ___ dataset from ___ site/repository, contains the following data: The classification/regression goal is to predict if ___. 
 Therefore the input variables would be the fields representing _____ and the target variable would be the column representing ____
 
