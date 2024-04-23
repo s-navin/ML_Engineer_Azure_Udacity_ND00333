@@ -8,7 +8,11 @@ Then, **Azure AutoML** is used to build and optimise a model on the same dataset
 ## Summary of the project
 
 ### Problem Statement: 
+
+### Dataset
 e.g "This dataset contains data about... we seek to predict..."
+The ___ dataset from ___ site/repository, contains the following data: The classification/regression goal is to predict if ___. 
+Therefore the input variables would be the fields representing _____ and the target variable would be the column representing ____
 
 ### Workflow and key steps:
 ![Project Workflow and key steps](https://github.com/s-navin/ML_Engineer_Azure_Udacity_ND00333/blob/main/01_optimise_AzureML_pipeline/assets/workflow-creating-and-optimizing-an-ml-pipeline.png)   
@@ -17,12 +21,15 @@ _Picture Courtesy: Udacity_
 ### Project Rubric
 [Success Criteria and specifications for Documentation, etc. can be found here](https://github.com/s-navin/ML_Engineer_Azure_Udacity_ND00333/blob/main/01_optimise_AzureML_pipeline/rubric_project_01.md) 
 
-### Solution: 
+### Solution:
+The ____ is ____ produced by the Azure AutomML run. It has a prediction accuracy of _____ when compared to the accuracy of ___ achieved by the scikit-learn LogicRegression model, with hyperparameter tuning assistance from HyperDrive.
+
+### Best performing model
 e.g. "The best performing model was a ..."**
 
-## Scikit-learn Pipeline
+## scikit-learn Pipeline
 
-### Explain the pipeline architecture, including data, hyperparameter tuning, and classification algorithm.**
+### Pipeline architecture, including data, hyperparameter tuning, and classification algorithm.**
 
 **What are the benefits of the parameter sampler you chose?**
 
@@ -36,7 +43,7 @@ e.g. "The best performing model was a ..."**
 **What are the differences in accuracy? In architecture? If there was a difference, why do you think there was one?**
 
 ## Future work
-**What are some areas of improvement for future experiments? Why might these improvements help the model?**
+**Some areas of improvement for future experiments, and why these improvements might help the model**
 
 ## Proof of cluster clean up
 **If you did not delete your compute cluster in the code, please complete this section. Otherwise, delete this section.**
