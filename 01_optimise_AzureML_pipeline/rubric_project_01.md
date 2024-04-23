@@ -14,7 +14,7 @@
 |  Use HyperDrive to automatically find optimal parameters. | A hyperdrive config is used and includes: <br> 1. A parameter sampler <br> 2. A policy for early stopping |
 | Retrieve the best run using .get_best_run_by_primary_metric(). | .get_best_run_by_primary_metric() is used on the hyperdrive run to retrieve the best run. | 
 | Use the RunDetails widget to explore run metrics. | The hyperdrive run is passed to the RunDetails widget. | 
-| Create an AutoMLConfig for training. | The solution notebook includes an AutoML config, which contains the following parameters: <ul><li> task <li><li>primary_metric <li><li> experiment_timeout_minutes <li><li> training_data <li><li> label_column_name <li><li> n_cross_validations </li></ul> |
+| Create an AutoMLConfig for training. | The solution notebook includes an AutoML config, which contains the following parameters: <ul><li> task <li> primary_metric <li> experiment_timeout_minutes <li> training_data <li> label_column_name <li> n_cross_validations </li></ul> |
 
 ## Infrastructure
 | Success Criteria |	Specifications  |  
