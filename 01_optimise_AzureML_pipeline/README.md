@@ -10,6 +10,9 @@ Then, **Azure AutoML** is used to build and optimise a model on the same dataset
 ### Problem Statement: 
 e.g "This dataset contains data about... we seek to predict..."
 
+### Workflow and key steps:
+![Picture Courtesy: Udacity](https://github.com/s-navin/ML_Engineer_Azure_Udacity_ND00333/blob/main/01_optimise_AzureML_pipeline/assets/workflow-creating-and-optimizing-an-ml-pipeline.png)
+
 ### Solution: 
 e.g. "The best performing model was a ..."**
 
