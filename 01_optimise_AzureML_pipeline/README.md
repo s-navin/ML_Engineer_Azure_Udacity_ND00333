@@ -14,6 +14,9 @@ e.g "This dataset contains data about... we seek to predict..."
 ![Project Workflow and key steps](https://github.com/s-navin/ML_Engineer_Azure_Udacity_ND00333/blob/main/01_optimise_AzureML_pipeline/assets/workflow-creating-and-optimizing-an-ml-pipeline.png)   
 _Picture Courtesy: Udacity_
 
+### Project Rubric
+[Success Criteria and specifications for Documentation, etc. can be found here](https://github.com/s-navin/ML_Engineer_Azure_Udacity_ND00333/blob/main/01_optimise_AzureML_pipeline/rubric_project_01.md) 
+
 ### Solution: 
 e.g. "The best performing model was a ..."**
 
