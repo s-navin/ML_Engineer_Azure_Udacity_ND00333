@@ -17,3 +17,12 @@ The following projects are covered:
 ## Capstone Project: Azure Machine Learning Engineer (w.i.p.)
 [Link to Project 03](https://github.com/s-navin/ML_Engineer_Azure_Udacity_ND00333/tree/main/03_capstone_AzureML_engineer)   
 [Research Report](https://github.com/s-navin/ML_Engineer_Azure_Udacity_ND00333/blob/main/03_capstone_AzureML_engineer/README.md)
+
+## Useful Resources
+- [ScriptRunConfig Class](https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.core.scriptrunconfig?view=azure-ml-py)
+- [Configure and submit training runs](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-set-up-training-targets)
+- [HyperDriveConfig Class](https://docs.microsoft.com/en-us/python/api/azureml-train-core/azureml.train.hyperdrive.hyperdriveconfig?view=azure-ml-py)
+- [How to tune hyperparamters](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters)
+
+## License
+There are no special licensing requirements. The details can be found in this [LICENSE](https://github.com/s-navin/ML_Engineer_Azure_Udacity_ND00333/blob/main/LICENSE) file.
