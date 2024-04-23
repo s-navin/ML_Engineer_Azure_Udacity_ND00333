@@ -8,9 +8,12 @@ The following projects are covered:
 # Summary of projects
 ## Project 01: Optimizing an ML Pipeline in Azure
 [Link to Project 01](https://github.com/s-navin/ML_Engineer_Azure_Udacity_ND00333/tree/main/01_optimise_AzureML_pipeline)
+[Research Report](https://github.com/s-navin/ML_Engineer_Azure_Udacity_ND00333/blob/main/01_optimise_AzureML_pipeline/README.md)
 
-## Project 02: Operationalizing Machine Learning
+## Project 02: Operationalizing Machine Learning (w.i.p.)
 [Link to Project 02](https://github.com/s-navin/ML_Engineer_Azure_Udacity_ND00333/tree/main/02_operationalise_ML)
+[Research Report](https://github.com/s-navin/ML_Engineer_Azure_Udacity_ND00333/blob/main/02_operationalise_ML/README.md)
 
-## Capstone Project: Azure Machine Learning Engineer 
+## Capstone Project: Azure Machine Learning Engineer (w.i.p.)
 [Link to Project 03](https://github.com/s-navin/ML_Engineer_Azure_Udacity_ND00333/tree/main/03_capstone_AzureML_engineer)
+[Research Report](https://github.com/s-navin/ML_Engineer_Azure_Udacity_ND00333/blob/main/03_capstone_AzureML_engineer/README.md)
