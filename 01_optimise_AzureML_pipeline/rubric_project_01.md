@@ -13,7 +13,7 @@
 | Pass parameters to training scripts. | All specifiable parameters of the training script are specified in the `Hyperdrive` config. |
 |  Use `HyperDrive ` to automatically find optimal parameters. | A `Hyperdrive` config is used and includes: <ul><li> A parameter sampler <li> A policy for early stopping </li></ul>|
 | Retrieve the best run using `.get_best_run_by_primary_metric()`. | `.get_best_run_by_primary_metric()` is used on the `Hyperdrive` run to retrieve the best run. | 
-| Use the RunDetails widget to explore run metrics. | The `Hyperdrive` run is passed to the RunDetails widget. | 
+| Use the `RunDetails` widget to explore run metrics. | The `Hyperdrive` run is passed to the `RunDetails` widget. | 
 | Create an `AutoMLConfig` for training. | The solution notebook includes an `AutoML` config, which contains the following parameters: <ul><li> task <li> primary_metric <li> experiment_timeout_minutes <li> training_data <li> label_column_name <li> n_cross_validations </li></ul> |
 
 ## Infrastructure
